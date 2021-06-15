@@ -1,0 +1,30 @@
+.portfolio {
+  margin-top: 2em;
+  width: 100vw;
+  margin-bottom: 0;
+}
+
+.content {
+  width: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+}
+
+.content h2 {
+  height: 1px;
+}
+
+.content h4 {
+  height: auto;
+  margin-bottom: 0.1em;
+}
+
+.companies {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

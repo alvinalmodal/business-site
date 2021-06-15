@@ -1,0 +1,8 @@
+.member {
+  flex-basis: 280px;
+}
+
+.member img {
+  margin-left: auto;
+  margin-right: auto;
+}

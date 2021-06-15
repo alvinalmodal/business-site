@@ -1,0 +1,18 @@
+.memberContainer {
+  display: block;
+  text-align: center;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.members {
+  display: flex;
+  background-image: url("../public/images/blurred-road.jpeg");
+  width: 100%;
+  color: white;
+  padding-top: 70px;
+  padding-top: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
